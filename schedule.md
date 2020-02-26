@@ -4,7 +4,7 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-Class Meeting Time: Wednesdays 1:30 - 3:00 pm\\
+Class Meeting Time: Wednesdays 1:30 - 3:00 pm
 
 <br>
 
