@@ -4,7 +4,11 @@ title: "Schedule"
 permalink: /schedule/
 ---
 
-Feb 26. Lecture 1. Introduction to Epistemology\\
+Class Meeting Time: Wednesdays 1:30 - 3:00 pm\\
+
+<br>
+
+Feb 26. [Lecture 1](/assets/Epist20s_Week1.pdf). Introduction\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: none\\
 Mar 4. Lecture 2. Proofs and Mathematical Knowledge\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 2 \\

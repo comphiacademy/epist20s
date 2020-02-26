@@ -1,4 +1,4 @@
-# jekyll-theme-jsblog
+# Epistemology Course Website Repository
 
 <!--[![Gem Version](https://badge.fury.io/rb/jekyll-theme-jsblog.svg)](https://badge.fury.io/rb/jekyll-theme-jsblog)
 [![Build Status](https://travis-ci.org/justjs/jekyll-theme-jsblog.svg?branch=master)](https://travis-ci.org/justjs/jekyll-theme-jsblog)-->
