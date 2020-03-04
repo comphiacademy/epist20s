@@ -12,7 +12,7 @@ Feb 26. [Lecture 1](/assets/week1.pdf). Introduction\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: none\\
 Mar 4. [Lecture 2](/assets/epist_week2.pdf). Proofs and Mathematical Knowledge\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 2 \\
-&nbsp; &nbsp; &nbsp; &nbsp; **_Project topics out_**\\
+Mar 6. **_Project topics out_**\\
 Mar 11. Lecture 3. Frege and Modern Logic\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 5\\
 Mar 18. Lecture 4. Skepticism and Empirical Knowledge\\
