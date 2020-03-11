@@ -10,4 +10,4 @@ The course project is an opportunity to explore an interesting problem of your c
 2. Presentation 
 3. Final paper
 
-The project handbook will be uploaded by the end of the 2nd week.
+Please check the [project handbook](/assets/handbook.pdf) for more details.
