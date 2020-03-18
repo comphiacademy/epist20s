@@ -15,7 +15,7 @@ Mar 4. [Lecture 2](/assets/proof1.pdf). Proofs and Mathematical Knowledge\\
 Mar 6. **_[Project topics](/assets/handbook.pdf) out_**\\
 Mar 11. [Lecture 3](/assets/proof2.pdf). Frege and Modern Logic\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 5\\
-Mar 18. Lecture 4. Skepticism and Empirical Knowledge\\
+Mar 18. [Lecture 4](/assets/empirical1.pdf). Skepticism and Empirical Knowledge\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 9\\
 Mar 25. Lecture 5. Bayesian Epistemology\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 8 \\
