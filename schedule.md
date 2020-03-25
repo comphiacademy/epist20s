@@ -17,7 +17,7 @@ Mar 11. [Lecture 3](/assets/proof2.pdf). Frege and Modern Logic\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 5\\
 Mar 18. [Lecture 4](/assets/empirical1.pdf). Skepticism and Empirical Knowledge\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 9\\
-Mar 25. Lecture 5. Bayesian Epistemology\\
+Mar 25. [Lecture 5](/assets/Bayesian.pdf). Bayesian Epistemology\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 8 \\
 Apr 1. Lecture 6. Neuroscience: Perception\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Groh Chapter 4\\
