@@ -19,7 +19,7 @@ Mar 18. [Lecture 4](/assets/empirical1.pdf). Skepticism and Empirical Knowledge\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 9\\
 Mar 25. [Lecture 5](/assets/Bayesian.pdf). Bayesian Epistemology\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 8 \\
-Apr 1. Lecture 6. Neuroscience: Perception\\
+Apr 1. [Lecture 6](/assets/space1.pdf). Neuroscience: Perception\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Groh Chapter 4\\
 Apr 8. Lecture 7. Neuroscience: Memory\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Groh Chapter 9\\
