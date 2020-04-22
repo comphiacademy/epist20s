@@ -21,11 +21,11 @@ Mar 25. [Lecture 5](/assets/Bayesian.pdf). Bayesian Epistemology\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Glymour Chapter 8 \\
 Apr 1. [Lecture 6](/assets/space1.pdf). Neuroscience: Perception of Space\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Groh Chapter 4\\
-Apr 8. [Lecture 7](/assets/space2.pdf). Neuroscience: Perception of Space(continued)\\
+Apr 8. [Lecture 7](/assets/space3.pdf). Neuroscience: Perception of Space(continued)\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Groh Chapter 7\\
-Apr 15. [Lecture 8](/assets/space3.pdf). Neuroscience: Perception of Space(continued)\\
-&nbsp; &nbsp; &nbsp; &nbsp; Reading: Goldstein Chapter 9 \\
-Apr 22. Lecture 9. Cognitive Psychology: Knowledge\\
+Apr 15. [Lecture 8](/assets/CogPsy1.pdf). Cognitive Psychology: Foundation\\
+&nbsp; &nbsp; &nbsp; &nbsp; Reading: Smith Chapter 1 \\
+Apr 22. [Lecture 9](/assets/CogPsy2.pdf). Cognitive Psychology: Conceptual Knowledge\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Goldstein Chapter 9 \\
 &nbsp; &nbsp; &nbsp; &nbsp; **_Project Milestone Due_**\\
 Apr 29. Lecture 10. Artificial Intelligence: Machine Learning\\
