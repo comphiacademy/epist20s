@@ -30,7 +30,7 @@ Apr 22. [Lecture 9](/assets/CogPsy2.pdf). Cognitive Psychology: Conceptual Knowl
 &nbsp; &nbsp; &nbsp; &nbsp; **_Project Milestone Due_**\\
 Apr 29. [Lecture 10](/assets/AI.pdf). Artificial Intelligence: Introduction\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Russell and Norvig Chapter 18, 1-2, 7\\
-May 6. Lecture 11. Artificial Intelligence: Agent-Based Modeling\\
+May 6. [Lecture 11](/assets/ml.pdf). Artificial Intelligence: Android Epistemology\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Eric Bonabeau, Agent-based modeling: Methods and techniques for simulating human \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; systems \\
 May 13. Lecture 12. Theory of Knowledge: The Traditional Analysis\\
