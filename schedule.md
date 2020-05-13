@@ -33,7 +33,7 @@ Apr 29. [Lecture 10](/assets/AI.pdf). Artificial Intelligence: Introduction\\
 May 6. [Lecture 11](/assets/ml.pdf). Artificial Intelligence: Android Epistemology\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Eric Bonabeau, Agent-based modeling: Methods and techniques for simulating human \\
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; systems \\
-May 13. Lecture 12. Theory of Knowledge: The Traditional Analysis\\
+May 13. [Lecture 12](/assets/epist1.pdf). Theory of Knowledge: The Traditional Analysis\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Feldman Chapter 1, 2\\
 May 20. Lecture 13. Evidential Theories: Foundationalism vs. Coherentism\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Feldman Chapter 4 \\
