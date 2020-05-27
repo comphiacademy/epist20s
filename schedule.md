@@ -37,7 +37,7 @@ May 13. [Lecture 12](/assets/epist1.pdf). Theory of Knowledge: The Traditional A
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Feldman Chapter 1, 2\\
 May 20. [Lecture 13](/assets/epist2.pdf). Evidential Theories: Foundationalism vs. Coherentism\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Feldman Chapter 4 \\
-May 27. Lecture 14. Non-evidential Theory: Reliablism\\
+May 27. [Lecture 14](/assets/epist3.pdf). Non-evidential Theory: Causal Theory and Reliablism\\
 &nbsp; &nbsp; &nbsp; &nbsp; Reading: Feldman Chapter 5\\
 Jun 3. **_Presentation and Discussion_**\\
 Jun 10. **_Presentation and Discussion II_**\\
